@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "canvas-touches-length-problem",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
